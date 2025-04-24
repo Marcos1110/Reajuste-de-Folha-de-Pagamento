@@ -1,5 +1,5 @@
 INTRODUÇÃO:
-O seguinte aplicativo tempor intuito ler e processar os dados presentes em um arquivo de texto. Após isso, realiza o cálculo de reajuste da folha de pagamento dessa empresa.
+O seguinte aplicativo tem por intuito ler e processar os dados presentes em um arquivo de texto. Após isso, realiza o cálculo de reajuste da folha de pagamento dessa empresa.
 
 Tal reajuste segue as seguintes diretrizes:
 
