@@ -1,0 +1,10 @@
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\bin\Debug\ReajusteFolhaDePagamento.exe.config
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\bin\Debug\ReajusteFolhaDePagamento.exe
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\bin\Debug\ReajusteFolhaDePagamento.pdb
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.FormReajusteFolhaDePagamento.resources
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.Properties.Resources.resources
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.exe
+C:\Users\MARCOS\Documents\Programacao\CSharp\SolucaoCapitulo03\ReajusteFolhaDePagamento\obj\Debug\ReajusteFolhaDePagamento.pdb
